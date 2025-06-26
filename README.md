@@ -66,7 +66,6 @@ Seasoned software engineer and technology leader (ENFJ-T) with a proven track re
 
 * **日本電子専門学校** – Diploma in Object Oriented Programming (2014 – 2016)
 * **東京ギャラクシー日本語学校** – Japanese Language (Apr 2012 – Mar 2014)
-* **원주직업전문학교** – Computer Graphics & Software (Mar 2003 – Feb 2004)
 
 ---
 
