@@ -2,6 +2,14 @@
 
 # Bumin Asano (asanobm)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asanobm&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asanobm&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asanobm&theme=algolia)
+
+## Commit
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asanobm&theme=algolia&utcOffset=8)
+
 **Chief Technology Officer @ 플리크라운지**
 
 📍 Seoul, South Korea
