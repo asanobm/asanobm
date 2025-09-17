@@ -115,11 +115,8 @@ Seasoned software engineer and technology leader (ENFJ-T) with a proven track re
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asanobm&show_icons=true&theme=tokyonight&hide_rank=true" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=asanobm&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asanobm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanobm)
 ---
 
 > *"Code with empathy, ship with joy."*
