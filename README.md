@@ -1,131 +1,180 @@
-<!-- Bumin Asano – README.md -->
+<div align="center">
+  
+# 👋 Hi, I'm Bumin Asano
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bumin-asano/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asanobm@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asanobm)
 
-# Bumin Asano (asanobm)
+### Chief Technology Officer @ 플리크라운지
+📍 Seoul, South Korea | 🌐 Korean (Native) • Japanese (Professional) • English (Elementary)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asanobm&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asanobm&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asanobm&theme=algolia)
-
-## Commit
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asanobm&theme=algolia&utcOffset=9)
-
-**Chief Technology Officer @ 플리크라운지**
-
-📍 Seoul, South Korea
-🔗 [LinkedIn](https://www.linkedin.com/in/bumin-asano/)
-📧 [asanobm@outlook.com](mailto:asanobm@outlook.com)
+</div>
 
 ---
 
-## 👨‍💻 About Me
-
-Seasoned software engineer and technology leader (ENFJ-T) with a proven track record of architecting scalable systems and driving product innovation. Strong background in AI, cloud infrastructure, real-time architectures, and team leadership.
-
-* Advocate for privacy-first, resilient, and maintainable solutions.
-* Passionate about mentorship and building high-performing engineering organizations.
-
----
-
-## 💼 Experience
-
-* **Chief Technology Officer @ 플리크라운지**
-  *Jan 2022 – Present (3 yrs 6 mos), Seoul*
-  Lead the technology vision and oversee architecture for AI-driven platforms. Managed cross-functional teams to deliver scalable cloud services using AWS, Supabase, and Firebase.
-
-* **Lead Software Architect @ フォーグローブ株式会社**
-  *Apr 2019 – Jan 2022 (2 yrs 10 mos), Tokyo*
-  Designed and implemented microservices-based systems for e-commerce applications. Improved performance by 40% and standardized CI/CD pipelines.
-
-* **Software Developer @ VSN, Inc.**
-  *Mar 2018 – Mar 2019 (1 yr 1 mo), Tokyo*
-  Developed web applications with Java and Spring Boot. Integrated Selenium-based test automation to boost QA coverage.
-
-* **Software Developer @ 株式会社トマト**
-  *Apr 2016 – Feb 2018 (1 yr 11 mos), Tokyo*
-  Built RESTful APIs and real-time features. Collaborated on frontend integrations with Angular and React.
-
-* **중사 @ 대한민국 육군**
-  *Mar 2007 – Mar 2012 (5 yrs 1 mo), Korea*
-  Led technical teams and managed communication infrastructure. Honed leadership and problem-solving skills in high-pressure environments.
-
----
-
-## 🛠 Skills
-
-* **Languages:** Java · JavaScript · TypeScript · Python · Go · Kotlin · Swift · C · C++ · C# · Rust · Bash · SQL · HTML5 · CSS3 · Dart
-* **Backend & APIs:** FastAPI · Spring Boot · Django
-* **Frontend & Mobile:** React · Next.js · Angular · Flutter
-* **Cloud & DevOps:** Docker · Kubernetes · AWS · Firebase · Supabase
-* **Game Dev:** Unreal Engine · Unity
-* **Others:** Microservices · CI/CD · System Architecture
-
----
-
-## 🌐 Proficient Languages
-
-* Korean (Native or Bilingual)
-* Japanese (Professional Working)
-* English (Elementary)
-
----
-
-## 🎓 Education
-
-* **日本電子専門学校** – Diploma in Object Oriented Programming (2014 – 2016)
-* **東京ギャラクシー日本語学校** – Japanese Language (Apr 2012 – Mar 2014)
-
----
-
-## 🏅 Certifications
-
-* Oracle Certified Professional, Java SE 6 Programmer (OCJP)
-* Oracle Certified Professional, Java EE 5 Web Component Developer (OCJ-WC)
-* ORACLE MASTER Bronze Oracle Database 11g
-* JLPT N1 (Japanese Language Proficiency Test)
-
----
-
-## Language
-
-![Java](https://img.shields.io/badge/Java-007396.svg?\&style=for-the-badge\&logo=Java\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?\&style=for-the-badge\&logo=JavaScript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?\&style=for-the-badge\&logo=TypeScript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?\&style=for-the-badge\&logo=Python\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?\&style=for-the-badge\&logo=Go\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?\&style=for-the-badge\&logo=Kotlin\&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343.svg?\&style=for-the-badge\&logo=Swift\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?\&style=for-the-badge\&logo=C\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?\&style=for-the-badge\&logo=C%2B%2B\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?\&style=for-the-badge\&logo=C%20Sharp\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000.svg?\&style=for-the-badge\&logo=Rust\&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011.svg?\&style=for-the-badge\&logo=GNU%20Bash\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?\&style=for-the-badge\&logo=MySQL\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?\&style=for-the-badge\&logo=HTML5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?\&style=for-the-badge\&logo=CSS3\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2.svg?\&style=for-the-badge\&logo=Dart\&logoColor=white)
-
----
-
-## Framework
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?\&style=for-the-badge\&logo=Spring\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?\&style=for-the-badge\&logo=Spring%20Boot\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?\&style=for-the-badge\&logo=Django\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?\&style=for-the-badge\&logo=FastAPI\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?\&style=for-the-badge\&logo=Flask\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?\&style=for-the-badge\&logo=React\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?\&style=for-the-badge\&logo=Next.js\&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031.svg?\&style=for-the-badge\&logo=Angular\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?\&style=for-the-badge\&logo=Flutter\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asanobm)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanobm)
----
+## 🚀 About Me
 
 > *"Code with empathy, ship with joy."*
-> — Bumin Asano
+
+Seasoned software engineer and technology leader (ENFJ-T) with a proven track record of architecting scalable systems and driving product innovation. Strong background in **AI**, **cloud infrastructure**, **real-time architectures**, and **team leadership**.
+
+- 🛡️ Advocate for privacy-first, resilient, and maintainable solutions
+- 👥 Passionate about mentorship and building high-performing engineering organizations
+- 🔧 Full-stack developer with expertise across multiple technology stacks
+
+---
+
+## 💼 Professional Experience
+
+### **Chief Technology Officer** 
+**플리크라운지** | *Seoul, South Korea*  
+`Jan 2022 – Present` • *3+ years*
+
+- Leading technology vision and overseeing architecture for AI-driven platforms
+- Managing cross-functional teams to deliver scalable cloud services using AWS, Supabase, and Firebase
+- Driving innovation in product development and technical strategy
+
+### **Lead Software Architect**
+**フォーグローブ株式会社** | *Tokyo, Japan*  
+`Apr 2019 – Jan 2022` • *2 years 10 months*
+
+- Designed and implemented microservices-based systems for e-commerce applications
+- Improved performance by 40% through optimization strategies
+- Standardized CI/CD pipelines across development teams
+
+### **Software Developer**
+**VSN, Inc.** | *Tokyo, Japan*  
+`Mar 2018 – Mar 2019` • *1 year*
+
+- Developed robust web applications with Java and Spring Boot
+- Integrated Selenium-based test automation to boost QA coverage
+
+### **Software Developer**
+**株式会社トマト** | *Tokyo, Japan*  
+`Apr 2016 – Feb 2018` • *1 year 11 months*
+
+- Built RESTful APIs and real-time features
+- Collaborated on frontend integrations with Angular and React
+
+### **Staff Sergeant (중사)**
+**대한민국 육군** | *South Korea*  
+`Mar 2007 – Mar 2012` • *5 years*
+
+- Led technical teams and managed communication infrastructure
+- Developed leadership and problem-solving skills in high-pressure environments
+
+---
+
+## 🛠️ Technical Stack
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### **Backend & APIs**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### **Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### **Game Development**
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+
+---
+
+## 🎓 Education & Certifications
+
+### **Education**
+- 🎓 **日本電子専門学校** - Diploma in Object Oriented Programming (2014-2016)
+- 🌏 **東京ギャラクシー日本語学校** - Japanese Language (2012-2014)
+
+### **Certifications**
+- ☕ Oracle Certified Professional, Java SE 6 Programmer (OCJP)
+- 🌐 Oracle Certified Professional, Java EE 5 Web Component Developer (OCJ-WC)
+- 🗄️ ORACLE MASTER Bronze Oracle Database 11g
+- 🇯🇵 JLPT N1 (Japanese Language Proficiency Test)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asanobm&theme=github_dark)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asanobm&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asanobm&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asanobm&theme=github_dark&utcOffset=9)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=asanobm&show_icons=true&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanobm&layout=compact&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌟 Core Competencies
+
+<table>
+  <tr>
+    <td align="center">🏗️<br><b>Architecture</b><br>Microservices<br>System Design<br>Scalability</td>
+    <td align="center">☁️<br><b>Cloud</b><br>AWS<br>Firebase<br>Supabase</td>
+    <td align="center">🤖<br><b>AI/ML</b><br>AI Integration<br>Data Processing<br>Automation</td>
+    <td align="center">👥<br><b>Leadership</b><br>Team Building<br>Mentorship<br>Strategy</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  
+### 📫 Let's Connect!
+  
+I'm always interested in discussing technology, innovation, and collaboration opportunities.  
+Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bumin-asano/)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asanobm@outlook.com)
+
+</div>
