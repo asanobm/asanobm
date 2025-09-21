@@ -137,18 +137,6 @@ Seasoned software engineer and technology leader (ENFJ-T) with a proven track re
   </tr>
 </table>
 
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asanobm&theme=github_dark&utcOffset=9)
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=asanobm&show_icons=true&theme=github_dark" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanobm&layout=compact&theme=github_dark" />
-    </td>
-  </tr>
-</table>
 
 </div>
 
