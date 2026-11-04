@@ -2,7 +2,7 @@
 
 <img width="100%" alt="Bumin Asano" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1026,50:5636B8,100:00C2FF&amp;height=230&amp;section=header&amp;text=BUMIN%20ASANO&amp;fontSize=62&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=ENGINEER%20%2F%20ARCHITECT%20%2F%20CTO&amp;descSize=17&amp;descAlignY=60" />
 
-### I build the systems behind the work that matters.
+### One engineer. Every layer of the system.
 
 **Chief Technology Officer · 씨트리하우스랩(주) / CTREEHOUSE LAB**  
 AI · Product Engineering · Cloud Architecture · Field Operations
@@ -18,13 +18,27 @@ AI · Product Engineering · Cloud Architecture · Field Operations
 
 ---
 
-## ⚡ From complex domains to products people can use.
+```text
+BUMIN ASANO / ENGINEERING SYSTEM ONLINE
+
+ROLE       Chief Technology Officer @ CTREEHOUSE LAB
+DOMAIN     AI × Urban Redevelopment × Real-World Operations
+RANGE      Interface → Mobile → API → Data → Cloud → Production
+BACKGROUND Military Communications → Software → Architecture → CTO
+PRINCIPLE  Understand it. Build it. Verify it. Own it.
+```
+
+## ⚡ Complexity is where I get to work.
 
 I'm **Bumin**, a hands-on CTO working where **AI, software, and real-world operations** meet.
 
 At **CTREEHOUSE LAB**, I build software for urban redevelopment: a domain where regulations, fragmented data, field teams, and consequential decisions all have to work together. My work connects that complexity to practical products, from AI-assisted research and electronic voting to the tools people use on site.
 
 I work across the full system: the interface someone touches, the API behind it, the data it depends on, and the infrastructure that keeps it running. **The architecture has to make sense. The product has to get the job done.**
+
+My path runs through military communications, software development in Japan, e-commerce architecture, and technology leadership in Korea. That breadth shapes how I build: **follow the problem across every boundary it crosses.**
+
+> Code with empathy. Architect with intent. Ship with ownership.
 
 ## 🏗️ What I'm building
 
@@ -69,35 +83,99 @@ I use AI throughout engineering, with human judgment and verification carrying t
 **AI & Data**  
 LLM Integration · Retrieval-Augmented Generation · Data Pipelines · Public Data
 
-<details>
-<summary><b>↗ More of my engineering background</b></summary>
+### The broader arsenal
 
-### Languages & platforms
+**Languages**
 
-Java · JavaScript · Python · Go · Kotlin · Swift · C · C++ · C# · Rust  
-Spring Boot · FastAPI · Django · Angular · Kubernetes · Firebase  
-Unreal Engine · Unity
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=white)
 
-### Before CTREEHOUSE LAB
+**Frameworks & Platforms**
 
-| Role | Organization | Period |
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**Game Development**
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white)
+
+## 💼 The track record
+
+### Chief Technology Officer · CTREEHOUSE LAB
+**씨트리하우스랩(주)** · Seoul, Korea · **Current**
+
+- Building products across urban redevelopment AI, field operations, and electronic voting.
+- Connecting web and mobile experiences with product APIs, data workflows, and AWS infrastructure.
+- Bringing architecture, implementation, verification, and operational concerns into the same engineering process.
+
+### Chief Technology Officer · 플리크라운지
+**Seoul, Korea** · Previous role
+
+- Led technology vision and architecture for AI-driven platforms.
+- Managed cross-functional teams delivering scalable cloud services with AWS and Firebase.
+- Drove product development and technical strategy.
+
+### Lead Software Architect · フォーグローブ株式会社
+**Tokyo, Japan** · Apr 2019 – Jan 2022
+
+- Designed and implemented microservices-based systems for e-commerce applications.
+- **Improved performance by 40%** through system optimization.
+- Standardized CI/CD pipelines across development teams.
+
+### Software Developer · VSN, Inc.
+**Tokyo, Japan** · Mar 2018 – Mar 2019
+
+- Developed web applications with Java and Spring Boot.
+- Integrated Selenium-based test automation to expand QA coverage.
+
+### Software Developer · 株式会社トマト
+**Tokyo, Japan** · Apr 2016 – Feb 2018
+
+- Built RESTful APIs and real-time features.
+- Connected backend services with Angular and React frontends.
+
+### Staff Sergeant · Republic of Korea Army
+**South Korea** · Mar 2007 – Mar 2012
+
+- Led technical teams and managed communications infrastructure.
+- Developed leadership and problem-solving skills in high-pressure environments.
+
+## 🎓 Foundations that still carry forward
+
+| Education | Focus | Period |
 | :--- | :--- | :--- |
-| Chief Technology Officer | 플리크라운지 | Previous role |
-| Lead Software Architect | フォーグローブ株式会社 · Tokyo | Apr 2019 – Jan 2022 |
-| Software Developer | VSN, Inc. · Tokyo | Mar 2018 – Mar 2019 |
-| Software Developer | 株式会社トマト · Tokyo | Apr 2016 – Feb 2018 |
-| Staff Sergeant | Republic of Korea Army | Mar 2007 – Mar 2012 |
+| 日本電子専門学校 | Diploma in Object Oriented Programming | 2014–2016 |
+| 東京ギャラクシー日本語学校 | Japanese Language | 2012–2014 |
 
-### Education & credentials
+![OCJP](https://img.shields.io/badge/ORACLE-Java_SE_6_Professional-C74634?style=for-the-badge)
+![OCJ-WC](https://img.shields.io/badge/ORACLE-Java_EE_5_Web_Component_Developer-C74634?style=for-the-badge)
+![Oracle Database](https://img.shields.io/badge/ORACLE_MASTER-Bronze_Database_11g-8B6340?style=for-the-badge)
+![JLPT N1](https://img.shields.io/badge/JAPANESE-JLPT_N1-BC002D?style=for-the-badge)
 
-- **日本電子専門学校** · Object Oriented Programming · 2014–2016
-- **東京ギャラクシー日本語学校** · Japanese Language · 2012–2014
-- Oracle Certified Professional, Java SE 6 Programmer
-- Oracle Certified Professional, Java EE 5 Web Component Developer
-- ORACLE MASTER Bronze Oracle Database 11g
-- **JLPT N1**
+## 📡 GitHub signal
 
-</details>
+<div align="center">
+
+<img width="100%" alt="GitHub contribution overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asanobm&amp;theme=tokyonight" />
+
+<img width="49%" alt="Languages across repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asanobm&amp;theme=tokyonight" />
+<img width="49%" alt="Languages across commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asanobm&amp;theme=tokyonight" />
+
+</div>
 
 ---
 
