@@ -2,6 +2,8 @@
 
 <img width="100%" alt="Bumin Asano" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1026,50:5636B8,100:00C2FF&amp;height=230&amp;section=header&amp;text=BUMIN%20ASANO&amp;fontSize=62&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=ENGINEER%20%2F%20ARCHITECT%20%2F%20CTO&amp;descSize=17&amp;descAlignY=60" />
 
+# Bumin Asano (김부민) · @asanobm
+
 ### One engineer. Every layer of the system.
 
 **Chief Technology Officer · 씨트리하우스랩(주) / CTREEHOUSE LAB**  
@@ -16,6 +18,17 @@ AI · Product Engineering · Cloud Architecture · Field Operations
 
 </div>
 
+**Bumin Asano (김부민)**, also listed as **Bumin Kim** and known online as **[asanobm](https://github.com/asanobm)**, is the **Chief Technology Officer (CTO) at 씨트리하우스랩(주) (CTREEHOUSE LAB)**, based in Seoul, South Korea. His work spans urban redevelopment software, hospitality SaaS, generative AI, computer vision, telecommunications, and cross-platform applications. His background includes CTO experience at Fleeklounge, software architecture in Japan, and projects for NTT DOCOMO and KDDI through previous employers.
+
+### Profile at a glance
+
+| Field | Details |
+| :--- | :--- |
+| Name & online identity | 김부민 · Bumin Asano / Bumin Kim · GitHub: asanobm |
+| Current position | Chief Technology Officer, 씨트리하우스랩(주) / CTREEHOUSE LAB |
+| Previous leadership roles | CTO at Fleeklounge (플리크라운지); Lead Software Architect at フォーグローブ株式会社, Tokyo |
+| Military service | Republic of Korea Army · 중사 (Staff Sergeant) · Mar 2007 – Mar 2012 |
+
 ---
 
 ```text
@@ -28,9 +41,9 @@ BACKGROUND Military Communications → Software → Architecture → CTO
 PRINCIPLE  Understand it. Build it. Verify it. Own it.
 ```
 
-## ⚡ Complexity is where I get to work.
+## ⚡ About Bumin Asano · Software Engineer & CTO
 
-I'm **Bumin**, a hands-on CTO working where **AI, software, and real-world operations** meet.
+I'm **Bumin**, a hands-on CTO working where **AI, software, and real-world operations** meet. I've designed hospitality automation systems, built computer vision applications, worked on telecom platforms in Japan, and developed an independent AI-powered storytelling platform across desktop, web, mobile, and GPU services.
 
 At **CTREEHOUSE LAB**, I build software for urban redevelopment: a domain where regulations, fragmented data, field teams, and consequential decisions all have to work together. My work connects that complexity to practical products, from AI-assisted research and electronic voting to the tools people use on site.
 
@@ -40,13 +53,61 @@ My path runs through military communications, software development in Japan, e-c
 
 > Code with empathy. Architect with intent. Ship with ownership.
 
-## 🏗️ What I'm building
+## 🏗️ What I'm building at CTREEHOUSE LAB
 
 | | Focus | Engineering challenge |
 | :--- | :--- | :--- |
 | 🧠 | **Urban Redevelopment AI** | Connecting regulations, project information, and public data to support research and decisions. |
 | 📍 | **Field Operations** | Connecting office workflows with the people, records, and activity on the ground. |
 | 🗳️ | **Electronic Voting** | Making complex voting workflows usable for administrators and members. |
+
+## 🎬 Independent work · Scrollive
+
+**AI storytelling, from the generation pipeline to the reading experience.**
+
+Scrollive is my solo-developed scroll-cinema project: a platform for creating and experiencing visual stories with images, motion, sound, and depth. It evolved from the earlier TooniHub, Comitoon, and Gaidokuraku.io projects.
+
+- **Creator tooling:** Electron, React, and TypeScript desktop tooling, alongside SwiftUI and Jetpack Compose client work.
+- **Reading experiences:** Next.js web and Expo / React Native mobile viewers, with a custom `.slv` storytelling format.
+- **Generative media:** image, video, speech, LoRA training, agent orchestration, and image-to-3D services.
+- **AI stack:** PyTorch, Diffusers, Stable Diffusion, ComfyUI, LoRA, vLLM, and TRELLIS.2.
+- **Agent architecture:** Claude and Gemini workflows, Model Context Protocol (MCP) integration, and specialized story, visual production, and render QA roles.
+- **GPU infrastructure:** development and operation on a dual NVIDIA RTX 4090 setup, with Docker, PostgreSQL, and object storage.
+
+**Scope:** product concept → AI pipelines → backend services → creator tools → viewers → GPU infrastructure.
+
+## 🧩 Selected project experience
+
+### Hospitality · OTA integration & RPA
+
+At **Fleeklounge (플리크라운지)**, I led development of a hospitality SaaS platform integrating reservations, inventory, and pricing across **Naver, Yanolja, Didinayo, and MStay**. The work combined RPA synchronization, microservices, partner apps, and cloud infrastructure. The project involved a **patent application for RPA-based reservation synchronization** and was **selected for TIPS**, Korea's startup technology development program.
+
+### Computer vision · Korean Register (KR)
+
+Led smart safety and port monitoring work for **Korean Register (한국선급)**, from requirements through delivery and operational handover. The system combined **YOLO object detection and anomaly detection** with Flutter applications, Python detection services, and Java stream processing.
+
+### Travel AI · Daypli
+
+Developed a **transformer-based travel itinerary recommendation model** and an Elasticsearch travel data pipeline, alongside Flutter mobile clients, web applications, backend microservices, and cloud infrastructure.
+
+### Multiplatform streaming · YogaFire
+
+Designed and developed a yoga and fitness platform spanning **iOS, Android, Flutter, web, Samsung TV, and LG webOS**, with shared application architecture and live streaming.
+
+### Assessment platforms · MyKosmos & CureSpace
+
+- **MyKosmos / ICRU:** frontend lead and architect for a psychological assessment platform, using an Nx monorepo, multiple Next.js applications, and a serverless backend.
+- **CureSpace:** frontend architecture and AI analysis integration for a healthcare organizational risk assessment service, with Django and AWS Bedrock.
+
+### Applied AI · Sunoa
+
+Full-stack development of an AI companion application combining **Claude conversations, Bark text-to-speech, and emotion mapping for a 3D avatar**, across iOS and Android.
+
+### Business systems · Attale Pro, Chain Calendar & UniD
+
+- **Attale / Attale Pro:** architect and full-stack lead for a booking and CRM platform using NestJS, GraphQL, React Native, and Next.js.
+- **Chain Calendar:** reservation scheduling and channel synchronization work that preceded the hospitality OTA integration platform.
+- **UniD:** Django and Flutter RPA services with Chrome extension and IoT robot integration for repetitive business workflows.
 
 ## 🧭 How I think about engineering
 
@@ -62,7 +123,16 @@ Read the code. Inspect the data. Run the workflow. Make the decision traceable.
 **04 · Build with AI. Take responsibility for the result.**  
 I use AI throughout engineering, with human judgment and verification carrying through to delivery.
 
-## 🛠️ The toolkit
+## 🛠️ Technical expertise · AI, Full-Stack, Mobile & Cloud
+
+My current toolkit includes **TypeScript, React, Next.js, Flutter, Dart, Hono, AWS, SST, Docker, and SQL**. My broader project experience includes **generative media, computer vision, recommendation models, large language model (LLM) integration, retrieval-augmented generation (RAG), and data pipelines**.
+
+| Engineering layer | Technologies & responsibilities |
+| :--- | :--- |
+| Web applications | TypeScript, React, Next.js; user interfaces and application workflows |
+| Mobile applications | Flutter and Dart; field-facing mobile experiences |
+| Backend & cloud | Hono, AWS, SST, SQL, Docker; APIs, infrastructure, and deployment |
+| AI & data | LLM integration, RAG, generative media, computer vision, recommendation models, and data pipelines |
 
 **Product & Mobile**
 
@@ -81,11 +151,19 @@ I use AI throughout engineering, with human judgment and verification carrying t
 ![SQL](https://img.shields.io/badge/SQL-334155?style=for-the-badge)
 
 **AI & Data**  
-LLM Integration · Retrieval-Augmented Generation · Data Pipelines · Public Data
+PyTorch · TensorFlow · Diffusers · Stable Diffusion · ComfyUI · LoRA · vLLM · YOLO · Pose Estimation · Elasticsearch · LLM Integration · RAG · MCP · Multi-Agent Orchestration
+
+**Native & Cross-Platform**  
+SwiftUI · Jetpack Compose · Expo / React Native · Flutter · Electron · Apache Cordova
+
+**Infrastructure & Delivery**  
+AWS EKS · Kubernetes · ArgoCD · Terraform · AWS CDK · NVIDIA CUDA · Cloudflare R2
 
 ### The broader arsenal
 
 **Languages**
+
+Java · JavaScript · TypeScript · Python · Go · Kotlin · Swift · C · C++ · C# · Rust · Dart
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -100,6 +178,8 @@ LLM Integration · Retrieval-Augmented Generation · Data Pipelines · Public Da
 
 **Frameworks & Platforms**
 
+Spring Boot · FastAPI · Django · Angular · Kubernetes · Firebase · Selenium
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -110,10 +190,12 @@ LLM Integration · Retrieval-Augmented Generation · Data Pipelines · Public Da
 
 **Game Development**
 
+Unreal Engine · Unity
+
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white)
 
-## 💼 The track record
+## 💼 Professional experience · Korea & Japan
 
 ### Chief Technology Officer · CTREEHOUSE LAB
 **씨트리하우스랩(주)** · Seoul, Korea · **Current**
@@ -122,51 +204,95 @@ LLM Integration · Retrieval-Augmented Generation · Data Pipelines · Public Da
 - Connecting web and mobile experiences with product APIs, data workflows, and AWS infrastructure.
 - Bringing architecture, implementation, verification, and operational concerns into the same engineering process.
 
-### Chief Technology Officer · 플리크라운지
-**Seoul, Korea** · Previous role
+### Former Chief Technology Officer · Fleeklounge (플리크라운지)
+**Seoul, Korea** · Previous employer
 
-- Led technology vision and architecture for AI-driven platforms.
-- Managed cross-functional teams delivering scalable cloud services with AWS and Firebase.
-- Drove product development and technical strategy.
+- Led technical strategy, architecture, and engineering across hospitality SaaS and applied AI projects.
+- Evolved a Go monolith into a microservices architecture with NestJS, Spring Boot, and FastAPI.
+- Integrated OTA reservation, inventory, and pricing workflows with RPA-based synchronization.
+- Built delivery infrastructure with AWS EKS, ArgoCD, Jenkins X, Terraform, and AWS CDK.
+- Developed AI dynamic pricing and automated OTA operations, alongside Flutter partner apps and a Next.js web portal.
+- Led engineering teams, mentored junior developers, and established development standards and code review practices.
 
 ### Lead Software Architect · フォーグローブ株式会社
 **Tokyo, Japan** · Apr 2019 – Jan 2022
 
 - Designed and implemented microservices-based systems for e-commerce applications.
+- Designed AI-assisted cost estimation architecture for thermal power plant construction and maintenance.
+- Developed TensorFlow pose estimation models for smart-mirror fitness applications.
+- Led development work on a restaurant discovery and cashless payment platform in Japan.
+- Participated in a medical terminology-focused interpretation system and collaborated with development teams in China.
 - **Improved performance by 40%** through system optimization.
 - Standardized CI/CD pipelines across development teams.
 
 ### Software Developer · VSN, Inc.
 **Tokyo, Japan** · Mar 2018 – Mar 2019
 
-- Developed web applications with Java and Spring Boot.
-- Integrated Selenium-based test automation to expand QA coverage.
+- Developed a **KDDI SD-WAN management console** as part of the Sirloin Scrum team.
+- Worked across Angular, React, Ruby on Rails, and Python in a hybrid KDDI Cloud and AWS environment.
+- Built Selenium E2E automation and supported automated network equipment configuration work.
 
 ### Software Developer · 株式会社トマト
 **Tokyo, Japan** · Apr 2016 – Feb 2018
 
-- Built RESTful APIs and real-time features.
-- Connected backend services with Angular and React frontends.
+- Worked on the **NTT DOCOMO customer management tablet application** project.
+- Implemented cross-platform hybrid application functionality with AngularJS and Apache Cordova.
+- Handled requirements analysis, design, implementation, testing, and customer feedback.
 
-### Staff Sergeant · Republic of Korea Army
+### 중사 (Staff Sergeant) · Republic of Korea Army
 **South Korea** · Mar 2007 – Mar 2012
 
 - Led technical teams and managed communications infrastructure.
 - Developed leadership and problem-solving skills in high-pressure environments.
 
-## 🎓 Foundations that still carry forward
+## 🎓 Education & certifications
 
 | Education | Focus | Period |
 | :--- | :--- | :--- |
 | 日本電子専門学校 | Diploma in Object Oriented Programming | 2014–2016 |
 | 東京ギャラクシー日本語学校 | Japanese Language | 2012–2014 |
 
+- **Oracle Certified Professional, Java SE 6 Programmer (OCJP)**
+- **Oracle Certified Professional, Java EE 5 Web Component Developer (OCJ-WC)**
+- **ORACLE MASTER Bronze Oracle Database 11g**
+- **Japanese-Language Proficiency Test, N1 (JLPT N1)**
+
 ![OCJP](https://img.shields.io/badge/ORACLE-Java_SE_6_Professional-C74634?style=for-the-badge)
 ![OCJ-WC](https://img.shields.io/badge/ORACLE-Java_EE_5_Web_Component_Developer-C74634?style=for-the-badge)
 ![Oracle Database](https://img.shields.io/badge/ORACLE_MASTER-Bronze_Database_11g-8B6340?style=for-the-badge)
 ![JLPT N1](https://img.shields.io/badge/JAPANESE-JLPT_N1-BC002D?style=for-the-badge)
 
-## 📡 GitHub signal
+## 🔎 Profile FAQ
+
+### Who is asanobm?
+
+**asanobm** is the GitHub username of **Bumin Asano (김부민)**, Chief Technology Officer at **씨트리하우스랩(주) (CTREEHOUSE LAB)** in Seoul, South Korea. His background includes software engineering and architecture roles in Japan, technology leadership in Korea, and service in the Republic of Korea Army as **중사 (Staff Sergeant)**.
+
+### Where does Bumin Asano currently work?
+
+I currently serve as **CTO at 씨트리하우스랩(주) (CTREEHOUSE LAB)**. My CTO role at **플리크라운지** belongs to my previous career experience. At CTREEHOUSE LAB, my work focuses on software for urban redevelopment, field operations, and electronic voting.
+
+### What is Bumin Asano's military background?
+
+I served in the **Republic of Korea Army from March 2007 to March 2012**, with the rank of **중사 (Staff Sergeant)**. My responsibilities included leading technical teams and managing communications infrastructure.
+
+### What does Bumin Asano work on?
+
+At CTREEHOUSE LAB, I work on **urban redevelopment AI, field operations software, and electronic voting**. My wider portfolio includes **Scrollive** generative storytelling, hospitality OTA automation, computer vision safety systems, travel recommendation models, psychological assessment platforms, and web, mobile, desktop, and TV applications.
+
+### Has Bumin Asano worked on NTT DOCOMO and KDDI projects?
+
+Yes. Through **株式会社トマト (Tomato Inc.)**, I worked on an NTT DOCOMO customer management tablet application. Through **VSN, Inc.**, I worked on a KDDI SD-WAN management console. These were client projects through my employers, rather than direct employment at NTT DOCOMO or KDDI.
+
+### Where can I find Bumin Asano's professional profiles?
+
+- **GitHub:** [asanobm](https://github.com/asanobm)
+- **LinkedIn:** [Bumin Asano](https://www.linkedin.com/in/bumin-asano/)
+- **Company:** [씨트리하우스랩(주) / CTREEHOUSE LAB](https://ctreehouselab.com)
+- **Company GitHub organization:** [ctreehouselab](https://github.com/ctreehouselab)
+- **Professional contact:** [cto@ctreehouselab.com](mailto:cto@ctreehouselab.com)
+
+## 📡 GitHub activity · asanobm
 
 <div align="center">
 
